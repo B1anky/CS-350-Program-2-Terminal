@@ -1,5 +1,4 @@
 Name: Brett Sackstein
-BNumber: 00458114
 
 To compile, call make. To run, <./cs350sh>. I've tested quite a few test cases and
 have not received a segmentation fault or a memory map error, so the code
